@@ -1,11 +1,12 @@
 # GuildUp Assignment
+### NextJs || React  || Tailwind || ShadCn
 
 ## Setup and Run
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/sho-obum/GuildUp-assignment.git
-   cd .\GuildUp-assignment\my-posts-app\
+   git clone -b nextjs https://github.com/sho-obum/GuildUp-assignment.git
+   cd .\GuildUp-assignment
    ```
 
 2. **Install dependencies**  
@@ -25,7 +26,4 @@
    npm start
    ```
 
-## To-Do
-
-- Integrate ShadCN for the design.
 ```
